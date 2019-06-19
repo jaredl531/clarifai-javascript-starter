@@ -25,6 +25,8 @@ var myApiKey = 'YOUR API KEY HERE';
 
 You'll also notice a custom_train.js file which serves as a reference for Custom Training. Any custom models that you create (under these credentials) will appear in the dropdown menu on index.html, next to the "Custom" label.
 
+## User Interface 
+
 <img src="https://jared-hack-projects.s3.us-east-2.amazonaws.com/clarifai-javascript-starter/main-screen.png"/>
 
 The left-side menu will let you predict with any of Clarifai's [public models](https://www.clarifai.com/models).<br/>
